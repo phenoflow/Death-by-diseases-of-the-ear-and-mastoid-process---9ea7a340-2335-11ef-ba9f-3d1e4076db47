@@ -1,0 +1,108 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-function---secondary.py
+inputModule3:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-specified---secondary.py
+inputModule4:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-cholesteatoma---secondary.py
+inputModule5:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-middle---secondary.py
+inputModule6:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-eustachian---secondary.py
+inputModule7:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-externa---secondary.py
+inputModule8:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-classified---secondary.py
+inputModule9:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause---secondary.py
+inputModule10:
+  class: File
+  path: python/parasitic-death-by-diseases-of-the-ear-and-mastoid-process-natural-cause---secondary.py
+inputModule11:
+  class: File
+  path: python/noninfective-death-by-diseases-of-the-ear-and-mastoid-process-natural-cause---secondary.py
+inputModule12:
+  class: File
+  path: python/sensorineural-death-by-diseases-of-the-ear-and-mastoid-process-natural-cause---secondary.py
+inputModule13:
+  class: File
+  path: python/viral-death-by-diseases-of-the-ear-and-mastoid-process-natural-cause---secondary.py
+inputModule14:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-condition---secondary.py
+inputModule15:
+  class: File
+  path: python/inner-death-by-diseases-of-the-ear-and-mastoid-process-natural-cause---secondary.py
+inputModule16:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-perforation---secondary.py
+inputModule17:
+  class: File
+  path: python/chronic-death-by-diseases-of-the-ear-and-mastoid-process-natural-cause---secondary.py
+inputModule18:
+  class: File
+  path: python/bilateral-death-by-diseases-of-the-ear-and-mastoid-process-natural-cause---secondary.py
+inputModule19:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-contralat---secondary.py
+inputModule20:
+  class: File
+  path: python/serous-death-by-diseases-of-the-ear-and-mastoid-process-natural-cause---secondary.py
+inputModule21:
+  class: File
+  path: python/acute-death-by-diseases-of-the-ear-and-mastoid-process-natural-cause---secondary.py
+inputModule22:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-acquired---secondary.py
+inputModule23:
+  class: File
+  path: python/bacterial-death-by-diseases-of-the-ear-and-mastoid-process-natural-cause---secondary.py
+inputModule24:
+  class: File
+  path: python/mixed-death-by-diseases-of-the-ear-and-mastoid-process-natural-cause---secondary.py
+inputModule25:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-window---secondary.py
+inputModule26:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-effusion---secondary.py
+inputModule27:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-obstruction---secondary.py
+inputModule28:
+  class: File
+  path: python/nonsuppurative-death-by-diseases-of-the-ear-and-mastoid-process-natural-cause---secondary.py
+inputModule29:
+  class: File
+  path: python/central-death-by-diseases-of-the-ear-and-mastoid-process-natural-cause---secondary.py
+inputModule30:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-otosclerosis---secondary.py
+inputModule31:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-myringitis---secondary.py
+inputModule32:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-ossicle---secondary.py
+inputModule33:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-vertigo---secondary.py
+inputModule34:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-syndrome---secondary.py
+inputModule35:
+  class: File
+  path: python/death-by-diseases-of-the-ear-and-mastoid-process-natural-cause-membrane---secondary.py
+inputModule36:
+  class: File
+  path: python/output-cases.py
